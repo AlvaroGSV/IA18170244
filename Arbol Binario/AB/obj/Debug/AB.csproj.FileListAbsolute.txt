@@ -1,0 +1,7 @@
+C:\Users\alvar\Desktop\IA\AB\AB\bin\Debug\AB.exe.config
+C:\Users\alvar\Desktop\IA\AB\AB\bin\Debug\AB.exe
+C:\Users\alvar\Desktop\IA\AB\AB\bin\Debug\AB.pdb
+C:\Users\alvar\Desktop\IA\AB\AB\obj\Debug\AB.csprojAssemblyReference.cache
+C:\Users\alvar\Desktop\IA\AB\AB\obj\Debug\AB.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\IA\AB\AB\obj\Debug\AB.exe
+C:\Users\alvar\Desktop\IA\AB\AB\obj\Debug\AB.pdb

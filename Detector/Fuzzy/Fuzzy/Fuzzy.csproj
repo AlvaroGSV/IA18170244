@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Accord">
+      <HintPath>..\..\Materiales Necesarios\Accord.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Fuzzy">
+      <HintPath>..\..\Materiales Necesarios\Accord.Fuzzy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
